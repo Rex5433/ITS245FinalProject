@@ -1,0 +1,80 @@
+Patient Demographics
+
+Patient ID: 5
+Medical Record #: 
+Last Name: Thompson
+Previous Last Name: 
+First Name: Taylor
+Middle Initial: R
+Suffix: I
+Address: 273 Stone Ridge Ct
+City: Chesterton
+State: Indiana
+Zip Code: 46304
+Country: United States
+Citizenship: United States
+Home Phone Number: 2194779016
+Emergency Number: 2196448996
+Email Address: thomp915@pnw.edu
+Social Security Number: 7654321
+Date of Birth: 11/16/2003 12:00:00 PM
+Gender: Male
+Ethnic Association: White
+Religion: Catholic
+Maritial Status: Single
+Employment Status: Employed
+Date of Expire: 11/16/2028 12:00:00 AM
+Referral: 
+Care Provider: Dr. Gandra
+Comments: Has a brain that's too big to fit in his skull
+Date Entered: 12/1/2023 12:00:00 AM
+Next of Kin ID: 
+Next of Kin Relation: 
+
+
+===============================================
+General Medical History
+
+General Medical History ID: 5
+Maritial Status: Single
+Education: High School
+Behavioral History: A Mystery
+Tobacco: No
+Tobacco Quantity: NA
+Tobacco Duration: NA
+Alcohol: No
+Alcohol Quantity: NA
+Alcohol Duration: NA
+Drug: No
+Drug Type: NA
+Drug Duration: NA
+Dietary: Food
+Blood Type: A+
+RH: NA
+Number of Children: 0
+LMP Status: NA
+Menses Frequency: NA
+Medical History Notes: Wants an A in this Assignment
+Hx Obtained By: 
+
+
+===============================================
+Family History
+
+Family ID: 5
+Name: William Thompson
+Relation: Brother
+Alive: True
+Lives with Patient: True
+Major Disorder: NA
+Specific Type Disorder: NA
+
+
+===============================================
+Allergy History
+
+Allergy ID: 5
+Allergen: None
+Allergy Start Date: NA
+Allergy End Date: NA
+Allergy Description: NA
